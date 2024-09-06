@@ -1,0 +1,10 @@
+node_modules
+build
+*.log
+*.test.js
+*.test.ts
+*.test.tsx
+*.test.jsx
+*.test.ts
+__tests__
+tests

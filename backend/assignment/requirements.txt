@@ -1,0 +1,15 @@
+
+# Django Framework
+Django>=4.0,<5.0
+
+# PostgreSQL support
+psycopg2>=2.9,<3.0
+
+# REST API and backend utilities
+djangorestframework>=3.12,<4.0
+
+# CORS headers
+django-cors-headers>=3.10,<4.0
+
+# For testing and debugging
+pytest-django>=4.5,<5.0
