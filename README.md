@@ -5,6 +5,8 @@
 
 This project consists of a Django backend and a Next.js frontend, both containerized using Docker. The backend uses PostgreSQL for data storage, and the frontend is built with Next.js, React, and Tailwind CSS.
 
+![Project Overview](images/frontend-overview.png)
+
 ## Libraries and Tools Used
 
 ### Backend
@@ -12,6 +14,9 @@ This project consists of a Django backend and a Next.js frontend, both container
 - **PostgreSQL**: **Relational** database management system.
 - **Docker**: Containerization platform for packaging and deploying the application.
 - **docker-compose**: Tool for defining and running multi-container Docker applications.
+
+
+![Backend Setup](images/backend-api.png)
 
 ### Frontend
 - **Next.js**: React framework for server-side rendering and static site generation.
