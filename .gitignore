@@ -9,6 +9,8 @@ node_modules/
 # testing
 /coverage
 
+.next/
+
 # next.js
 frontend/assignment_frontend/.next/
 frontend/assignment_frontend/out/
